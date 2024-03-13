@@ -61,7 +61,7 @@
     border-radius: 9px;
 }
 .background{
-    background: rgba(0,0,0,0.7) url('../img/gym.jpg');
+    background: rgba(0,0,0,0.7) url('../gym.jpg');
     background-size:cover ;
     background-blend-mode: darken;
     
